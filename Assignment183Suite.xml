@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Assignment183_Suite">
+  <test thread-count="5" name="Assignment183_Test">
+    <classes>
+      <class name="NGTest.Assignment183_testcase1"/>
+      <class name="NGTest.Assignment183_testcase2"/>
+     
+      <class name="NGTest.Assignment183_testcase3"/>
+      <class name="NGTest.Assignment183_testcase4"/>
+       <class name="NGTest.Assignment183_testcase5"/>
+    </classes>
+  </test> <!-- Assignment183_Test -->
+</suite> <!-- Assignment183_Suite -->
